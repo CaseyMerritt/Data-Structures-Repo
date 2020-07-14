@@ -1,0 +1,64 @@
+-----------------
+Welcome To Sorter
+-----------------
+
+Please enter number of elements you would like: 
+4
+Please enter your preferred data type: 
+int
+
+-----------------
+Building array
+-----------------
+
+Successfully created a(n) int array with 4 elements
+
+Please enter your elements: 
+4
+3
+2
+1
+
+Current Array: 
+4 3 2 1 
+
+
+-----------------
+Commencing sort
+-----------------
+
+
+Current Array: 
+1 3 2 4 
+
+
+Current Array: 
+1 2 3 4 
+
+
+Current Array: 
+1 2 3 4 
+
+
+Your final array is: 
+1 2 3 4 
+
+
+-----------------
+Successfully deleted array
+-----------------
+
+
+Would you like to sort another array? (Yes or No)
+no
+
+
+-----------------
+Exiting Program
+-----------------
+
+
+
+@lab: 2 output.txt
+@Author: Casey Merritt
+@idk what else to write for my Identifying info haha
