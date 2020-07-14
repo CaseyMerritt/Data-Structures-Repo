@@ -1,0 +1,253 @@
+Please Enter Full Path For Input File: 
+C:\Users\Casey\Desktop\CsShit\Test\Input.txt
+
+Root is: 0073A928
+Current Count: 4
+
+Files Imported From: 
+C:\Users\Casey\Desktop\CsShit\Test\Input.txt
+
+
+------- Welcome To Your Personal Bst Helper -------
+
+
+What Would You Like To Do?: 
+1. Add
+2. Remove
+3. Search
+4. Print
+5. Traverse
+6. Exit
+4
+
+Breadth First Print: 
+$1.25 $1.10 $2.10 $4.20 
+
+In Order Print: 
+$1.10 $1.25 $2.10 $4.20 
+
+Pre Order Print: 
+$1.25 $1.10 $2.10 $4.20 
+
+Post Order Print: 
+$1.10 $4.20 $2.10 $1.25 
+
+What Would You Like To Do?: 
+1. Add
+2. Remove
+3. Search
+4. Print
+5. Traverse
+6. Exit
+1
+
+Enter Value You Want To Add: 
+$1.30
+
+What Would You Like To Do?: 
+1. Add
+2. Remove
+3. Search
+4. Print
+5. Traverse
+6. Exit
+4
+
+Breadth First Print: 
+$1.25 $1.10 $2.10 $1.30 $4.20 
+
+In Order Print: 
+$1.10 $1.25 $1.30 $2.10 $4.20 
+
+Pre Order Print: 
+$1.25 $1.10 $2.10 $1.30 $4.20 
+
+Post Order Print: 
+$1.10 $1.30 $4.20 $2.10 $1.25 
+
+What Would You Like To Do?: 
+1. Add
+2. Remove
+3. Search
+4. Print
+5. Traverse
+6. Exit
+2
+
+Enter Value You Want To Remove: 
+$1.25
+
+What Would You Like To Do?: 
+1. Add
+2. Remove
+3. Search
+4. Print
+5. Traverse
+6. Exit
+4
+
+Breadth First Print: 
+$1.30 $1.10 $2.10 $4.20 
+
+In Order Print: 
+$1.10 $1.30 $2.10 $4.20 
+
+Pre Order Print: 
+$1.30 $1.10 $2.10 $4.20 
+
+Post Order Print: 
+$1.10 $4.20 $2.10 $1.30 
+
+What Would You Like To Do?: 
+1. Add
+2. Remove
+3. Search
+4. Print
+5. Traverse
+6. Exit
+3
+
+Enter Value You Want To Search For: 
+$1.10
+This value exists in the tree 
+
+What Would You Like To Do?: 
+1. Add
+2. Remove
+3. Search
+4. Print
+5. Traverse
+6. Exit
+5
+
+Select a traversal: 
+1. Breadth First
+2. In Order
+3. Pre Order
+4. Post Order
+1
+
+Breadth First Print:
+$1.30 $1.10 $2.10 $4.20 
+
+What Would You Like To Do?: 
+1. Add
+2. Remove
+3. Search
+4. Print
+5. Traverse
+6. Exit
+5
+
+Select a traversal: 
+1. Breadth First
+2. In Order
+3. Pre Order
+4. Post Order
+2
+
+In Order Print:
+$1.10 $1.30 $2.10 $4.20 
+
+What Would You Like To Do?: 
+1. Add
+2. Remove
+3. Search
+4. Print
+5. Traverse
+6. Exit
+5
+
+Select a traversal: 
+1. Breadth First
+2. In Order
+3. Pre Order
+4. Post Order
+3
+
+Pre Order Print:
+$1.30 $1.10 $2.10 $4.20 
+
+What Would You Like To Do?: 
+1. Add
+2. Remove
+3. Search
+4. Print
+5. Traverse
+6. Exit
+5
+
+Select a traversal: 
+1. Breadth First
+2. In Order
+3. Pre Order
+4. Post Order
+4
+
+Post Order Print:
+$1.10 $4.20 $2.10 $1.30 
+
+What Would You Like To Do?: 
+1. Add
+2. Remove
+3. Search
+4. Print
+5. Traverse
+6. Exit
+2
+
+Enter Value You Want To Remove: 
+$2.10
+
+What Would You Like To Do?: 
+1. Add
+2. Remove
+3. Search
+4. Print
+5. Traverse
+6. Exit
+4
+
+Breadth First Print: 
+$1.30 $1.10 $4.20 
+
+In Order Print: 
+$1.10 $1.30 $4.20 
+
+Pre Order Print: 
+$1.30 $1.10 $4.20 
+
+Post Order Print: 
+$1.10 $4.20 $1.30 
+
+What Would You Like To Do?: 
+1. Add
+2. Remove
+3. Search
+4. Print
+5. Traverse
+6. Exit
+6
+
+Thank You Please Come Again!
+
+
+Final Bst: 
+
+Breadth First Print: 
+$1.30 $1.10 $4.20 
+
+In Order Print: 
+$1.10 $1.30 $4.20 
+
+Pre Order Print: 
+$1.30 $1.10 $4.20 
+
+Post Order Print: 
+$1.10 $4.20 $1.30 
+
+
+Exiting Program...
+
+Successfully deleted bst
+
